@@ -1,4 +1,4 @@
-package jp.toastkid.spring.example.hello;
+package jp.toastkid.spring.sandbox.hello;
 
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.*;

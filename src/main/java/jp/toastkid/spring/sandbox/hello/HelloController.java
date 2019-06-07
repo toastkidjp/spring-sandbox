@@ -1,4 +1,4 @@
-package jp.toastkid.spring.example.hello;
+package jp.toastkid.spring.sandbox.hello;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
